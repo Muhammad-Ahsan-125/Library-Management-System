@@ -2,7 +2,6 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
-
 Account::Account()
 {
     borrowedResourcesCount = 0;
